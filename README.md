@@ -13,7 +13,7 @@ Clasificadores de Redes Neuronas:
   -MLP
   -SOM
   -DL
-Se han utilizado diferentes métodos de preprocesmiento de datos:
+Se han utilizado diferentes métodos de preprocesamiento de datos:
   -PCA
   -LDA
   -Autoencoder
