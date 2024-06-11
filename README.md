@@ -1,3 +1,9 @@
+Grupo 7
+
+Programadores:
+-Micaela Cabrera
+-Gustavo Maldonado
+-David Arias
 # Clasificaci-n-MNIST
 Diferentes métodos de clasificación de dígitos usando cinco técnicas de clasificadores:
 Clasificadores clásicos:
